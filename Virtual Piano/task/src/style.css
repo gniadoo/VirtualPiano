@@ -1,0 +1,26 @@
+html,body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cadetblue;
+    height: 100%;
+}
+
+.container{
+    display: flex;
+    height: fit-content;
+    width: fit-content;
+}
+
+kbd{
+    display: inline-block;
+    width: 10vw;
+    max-width: 50px;
+    background-color: white;
+    border: 2px solid grey;
+    text-align: center;
+    padding-top: 28vh;
+    padding-bottom: 5vh;
+    font-size: 20px;
+}
+
