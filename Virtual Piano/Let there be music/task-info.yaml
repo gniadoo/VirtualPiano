@@ -324,6 +324,52 @@ files:
         }
     );
   learner_created: false
+- name: src/main.js
+  visible: true
+  text: |
+    let valid_keys = ['KeyA', 'KeyS', 'KeyD', 'KeyF', 'KeyG', 'KeyH', 'KeyJ'];
+
+    document.addEventListener("keypress", function(e) {
+        if(valid_keys.includes(e.code)) {
+            console.log(`The \'${e.key.toUpperCase()}\' is pressed`);
+        } else {
+            console.log("Warning");
+        }
+    });
+  learner_created: true
+- name: src/style.css
+  visible: true
+  text: |+
+    html,body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: cadetblue;
+        height: 100%;
+    }
+
+    .container{
+        display: flex;
+        height: fit-content;
+        width: fit-content;
+    }
+
+    kbd{
+        display: inline-block;
+        width: 10vw;
+        max-width: 50px;
+        background-color: white;
+        border: 2px solid grey;
+        text-align: center;
+        padding-top: 28vh;
+        padding-bottom: 5vh;
+        font-size: 20px;
+    }
+
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/101/stages/559/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 26 Aug 2021 15:25:35 UTC
 record: -1

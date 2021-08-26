@@ -2,26 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf3405e3-a29a-4b28-92bb-a09fbe510e93" name="Changes" comment="Add styling">
-      <change beforePath="$PROJECT_DIR$/Virtual Piano/Add markup/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Add markup/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Virtual Piano/Add markup/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Add markup/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Virtual Piano/Adding and styling new keys/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Adding and styling new keys/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Virtual Piano/Adding and styling new keys/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Adding and styling new keys/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Virtual Piano/Adding and styling new keys/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Adding and styling new keys/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Virtual Piano/Application functionality/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Application functionality/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Virtual Piano/Application functionality/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Application functionality/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Virtual Piano/Application functionality/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Application functionality/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Virtual Piano/Let there be music/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Let there be music/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Virtual Piano/Let there be music/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Let there be music/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Virtual Piano/Let there be music/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Let there be music/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Virtual Piano/Page styling/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Page styling/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Virtual Piano/Page styling/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Page styling/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Virtual Piano/Page styling/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Page styling/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Virtual Piano/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Virtual Piano/task/hstest/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/task/hstest/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Virtual Piano/task/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/task/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Piano/task/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/task/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +36,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Virtual Piano/task/src" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_interpreter_path" value="$USER_HOME$/nodejs/bin/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Virtual Piano/task/src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,7 +59,9 @@
       <workItem from="1627896688989" duration="105000" />
       <workItem from="1627896814608" duration="33000" />
       <workItem from="1629904537328" duration="676000" />
-      <workItem from="1629973102334" duration="3299000" />
+      <workItem from="1629973102334" duration="3989000" />
+      <workItem from="1629990165848" duration="182000" />
+      <workItem from="1629990362375" duration="1154000" />
     </task>
     <task id="LOCAL-00001" summary="Add styling">
       <created>1629904591500</created>
