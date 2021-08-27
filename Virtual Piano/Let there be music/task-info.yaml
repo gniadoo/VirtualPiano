@@ -367,9 +367,24 @@ files:
     }
 
   learner_created: true
+- name: sounds/T.mp3
+  visible: true
+  learner_created: true
+- name: sounds/U.mp3
+  visible: true
+  learner_created: true
+- name: sounds/E.mp3
+  visible: true
+  learner_created: true
+- name: sounds/Y.mp3
+  visible: true
+  learner_created: true
+- name: sounds/W.mp3
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/101/stages/559/implement#comment
 status: Solved
 feedback:
   message: Congratulations!
   time: Thu, 26 Aug 2021 15:25:35 UTC
-record: -1
+record: 3

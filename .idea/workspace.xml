@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf3405e3-a29a-4b28-92bb-a09fbe510e93" name="Changes" comment="Add styling">
+    <list default="true" id="cf3405e3-a29a-4b28-92bb-a09fbe510e93" name="Changes" comment="Adding sound effect">
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Virtual Piano/Application functionality/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Application functionality/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Piano/Adding and styling new keys/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Adding and styling new keys/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Virtual Piano/Let there be music/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/Let there be music/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Virtual Piano/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Virtual Piano/task/hstest/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/task/hstest/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Piano/task/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/task/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Virtual Piano/task/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/task/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Piano/task/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Piano/task/src/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +63,8 @@
       <workItem from="1629904537328" duration="676000" />
       <workItem from="1629973102334" duration="3989000" />
       <workItem from="1629990165848" duration="182000" />
-      <workItem from="1629990362375" duration="1154000" />
+      <workItem from="1629990362375" duration="3848000" />
+      <workItem from="1630055457316" duration="5091000" />
     </task>
     <task id="LOCAL-00001" summary="Add styling">
       <created>1629904591500</created>
@@ -70,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629904591500</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding sound effect">
+      <created>1629991582564</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629991582564</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,7 +100,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add styling" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add styling" />
+    <MESSAGE value="Adding sound effect" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding sound effect" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
